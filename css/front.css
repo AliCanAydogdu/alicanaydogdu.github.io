@@ -25,11 +25,11 @@ body {
     margin-bottom: 40px;
 }
 h1 {
-    color: black;
+    color: white;
     font-weight: bold;
     letter-spacing: 0.1em;
     font-size: 3em;
-    font-family: 'Open Sans';
+    font-family: 'Arial';
     margin: -10px 0;
 
 }
