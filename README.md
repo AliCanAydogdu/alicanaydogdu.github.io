@@ -1,20 +1,32 @@
-# Ramme Jekyll Theme
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+=============================
+Sleek Blog
+=============================
 
-**[Ramme](http://taylantatli.github.io/Ramme)** is a simple jekyll theme.
+[Live Website](http://gearoidoconnor.ie)
 
-I made this theme after seeing this [screenshot](http://spoonm.org/share/rice/01.png). I took some parts from @mmistakes, like TOC, sample posts. I never tought making a theme from scratch would be this hard. And it's still WIP.
-     
-I'm not a designer or something, so I'm sure there is a better way to make this theme. But it's working and looks acceptable for different screen sizes. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
 
-## Preview
+A blog project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer &amp; BrowserSync
 
-![screenshot of Ramme](/assets/img/screenshot-home.png)    
-![screenshot of Ramme](/assets/img/screenshot-post.png)
 
-See a [live version of Ramme](http://taylantatli.github.io/Ramme) hosted on GitHub.
+## System Preparation
 
-## Getting Started
+To use this project, you'll need the following things installed on your machine.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Ramme/ramme-theme/) for more information.
+1. [Jekyll](http://jekyllrb.com/) - `$ gem install jekyll`
+2. [NodeJS](http://nodejs.org) - use the installer.
+3. [GulpJS](https://github.com/gulpjs/gulp) - `$ npm install -g gulp` (mac users may need sudo)
+
+## Local Installation
+
+1. Clone this repo, or download it into a directory of your choice.
+2. Inside the directory, run `npm install`.
+
+## Usage
+
+**development mode**
+
+This will give you file watching, browser synchronisation, auto-rebuild, CSS injecting etc etc.
+
+```shell
+$ gulp
+```
