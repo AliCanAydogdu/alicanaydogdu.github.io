@@ -726,7 +726,7 @@ footer {
 @media only screen and (min-width: 220px) {
   .about-lock {
     margin: auto; }
-    .about-lock .face-img {
+    .about-lock .new {
       height: 180px;
       width: 180px;
       display: -webkit-box;
@@ -738,7 +738,7 @@ footer {
       display: flex;
       margin: auto;
       border-radius: 60%;
-      background: url(../img/profile) no-repeat; }
+      background: url(../img/new) no-repeat; }
     .about-lock .face1-img {
       height: 180px;
       width: 180px;
