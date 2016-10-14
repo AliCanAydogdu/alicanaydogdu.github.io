@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Blog entry one"
-date:   2015-10-26 16:51:11
+title:  "Blog entry two"
+date:   
 categories: blog
 ---
 
