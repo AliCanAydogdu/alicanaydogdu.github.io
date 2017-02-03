@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang= "en">
+
+ <head>
+ <title>Bond Ratings</title>
+
+<script type="text/javascript">
+  function checkRating(rating){
+    switch(rating){
+    case "AAA":
+            window.alert("Highest Quality");
+            break;
+    case "AA":
+            window.alert("High Quality");
+            break;
+    case "A":
+            window.alert("Upper Medium");
+            break;
+    case "BBB":
+            window.alert("Medium");
+            break;
+    case "BB":
+            window.alert("Speculative");
+            break;
+    case "B":
+            window.alert("Highly Speculative");
+            break;
+    case "CCC":
+            window.alert("Extremely Speculative");
+            break;
+    case "CC":
+            window.alert("Probable Default ");
+            break;
+    case "C":
+            window.alert("Default");
+            break;
+    default
+            window.alert("You did not enter a valid bond ratings!");
+
+    }
+  }
+</script>
+</head>
+<body>
+      <form name="bondRating" action="">
+      <input type="text" name="rating" >
+      <input type="button" value="Check Bond  Rating" onclick="checkRating(document.boundrating.rating.value);" >
+      </form>
+</body>
+</html>
