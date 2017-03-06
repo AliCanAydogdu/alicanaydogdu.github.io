@@ -1,6 +1,6 @@
 # main text of home
-name: Alican Aydogdu
-bio: A Man who travels the world eating noodles
+name: Ali Can Aydogdu
+bio: Software Engineering Student | Java Enthusiast
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/logo.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/images/resume.pdf
 
 url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
@@ -35,20 +35,21 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: mytwitter
+
 # google: mygoogle
-instagram: myinstagram
+instagram: turko1907
 # pinterest: mypinterest
-linkedin: mylinkedin
+linkedin: ali-can-aydogdu-92aba2a4
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: AliCanAydogdu
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+twitter: TurkoUsa
+email: alicantx@gmail.com
 
 authors:
     johndoe:
